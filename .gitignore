@@ -1,0 +1,30 @@
+# Quartus Prime / Quartus II generated files
+#
+# Compiled output files
+output_files/
+
+# Synthesis and database files
+db/
+incremental_db/
+synthesis/
+
+# Simulation files
+simulation/
+
+# Report and summary files
+*.rpt
+*.summary
+*.jdi
+*.sof
+*.pof
+*.srr
+*.log
+*.qws
+*.bak
+
+# Other tool-specific files
+timing/
+greybox_tmp/
+c5_pin_model_dump.txt
+*~
+*.bak
