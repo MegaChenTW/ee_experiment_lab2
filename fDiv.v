@@ -1,10 +1,9 @@
 module fDiv (fin, DIVN, fout);
 input fin;
-output fout;
+output reg fout;
 input [31:0] DIVN;
 wire [31:0] _DIVN;
 reg [31:0] count;
-reg fout;
 
 initial begin
     count <= 32'b1;
