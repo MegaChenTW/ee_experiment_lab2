@@ -21,7 +21,7 @@ always @(*) begin
     else
         case(cs)
             S_RESET : ns <= S_1;
-            S_1: ns <= (dir) ? S_2 : S_3;
+            S_1: ns <= (dir) ? S_2 : S_4;
             S_2: ns <= (dir) ? S_3 : S_1;
             S_3: ns <= (dir) ? S_4 : S_2;
             S_4: ns <= (dir) ? S_1 : S_3;

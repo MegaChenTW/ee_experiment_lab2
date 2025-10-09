@@ -1,3 +1,5 @@
+# ee_lab_experiment_2
+### this is redeme lmao
 # ee_experiment_lab_Series : lab 2
 ## How to download?
 ## 1. With git
