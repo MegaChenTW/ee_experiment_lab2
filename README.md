@@ -13,7 +13,7 @@ git clone "https://github.com/MegaChenTW/ee_experiment_lab2.git"
 ## 2. I'm a zip baby
 1. click "Code" on top right of this repo
 2. Download the zip file: click "Download ZIP"
-![an image showing where the zip are located](image.png)
+![an image showing where the zip are located](git_pic/image.png)
 3. Un-zip the folder
 
 ## How to open in Quartus Prime Lite 20.1?
